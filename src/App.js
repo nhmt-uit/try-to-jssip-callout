@@ -1,11 +1,11 @@
 import './App.css';
-import NumberKeyboard from './NumberKeyboard';
+import CallToPhoneNumber from './pages/CallToPhoneNumber';
 
 function App() {
     return (
         <div className="App">
             <h2>Customer Success Engineer Internship - Entry Examination</h2>
-            <NumberKeyboard />
+            <CallToPhoneNumber />
         </div>
     );
 }
